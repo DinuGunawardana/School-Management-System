@@ -1,4 +1,4 @@
-# project_04
+# School Management System
 A Complete Student Enrollment System.
 
 ADMIN Login:
